@@ -1,7 +1,7 @@
 
 ## Requirements
 - Use object oriented programming and layered architecture
-- All modules with the exception of the UI will have specifications and PyUnit test cases for the non-trivial methods
+- All modules PyUnit test cases for the non-trivial methods
 - The program will be implemented as a human player vs. computer player game
 - The program must protect itself against the user’s invalid input
 
